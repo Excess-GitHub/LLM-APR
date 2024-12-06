@@ -3,6 +3,7 @@ Augment an LLM's bug fixing capabilities by providing it information from a fuzz
 
 ## Setup
 You will need an OpenAI API Key and afl++ to run this program.
+This program will only run on Linux. It has been tested on Ubuntu 22.04
 
 ## Usage
 Just run the provided Python notebook on your own buggy code or the examples provided in the data folder.
